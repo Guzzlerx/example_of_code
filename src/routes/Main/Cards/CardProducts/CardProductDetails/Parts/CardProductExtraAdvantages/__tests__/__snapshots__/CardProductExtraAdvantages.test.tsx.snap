@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardProductExtraAdvantages component snapshot 1`] = `
+<div>
+  <section
+    class="sc-dkrFOg eUBOWt"
+  >
+    <h2
+      class="sc-gswNZR eugAJR"
+      size="20"
+    >
+      You want more? We've got some
+    </h2>
+    <div
+      class="sc-hLBbgP dsXhKp"
+    >
+      <div
+        class="sc-eDvSVe bnkvWH"
+        width="180"
+      >
+        <div
+          class="sc-bcXHqe hhnFHT"
+          title="Currency"
+        >
+          <svg>
+            euro_currency.svg
+          </svg>
+        </div>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          An additional currency for your less spending and more gaining
+        </p>
+      </div>
+      <div
+        class="sc-eDvSVe bnkvWH"
+        width="180"
+      >
+        <div
+          class="sc-bcXHqe hhnFHT"
+          title="Mile program"
+        >
+          <svg>
+            mile_program.svg
+          </svg>
+        </div>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          Be part of our mile program. No queues and special benefits at the airport
+        </p>
+      </div>
+      <div
+        class="sc-eDvSVe bnkvWH"
+        width="180"
+      >
+        <div
+          class="sc-bcXHqe hhnFHT"
+          title="Deposit graph"
+        >
+          <svg>
+            deposit_graph.svg
+          </svg>
+        </div>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          Get timeless deposit up to 3% on your account balance
+        </p>
+      </div>
+      <div
+        class="sc-eDvSVe bnkvWH"
+        width="180"
+      >
+        <div
+          class="sc-bcXHqe hhnFHT"
+          title="Grace period"
+        >
+          <svg>
+            grace_period.svg
+          </svg>
+        </div>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          30 days of grace period. It’s good to can afford what you want
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;

@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardProductCashbacks snapshot 1`] = `
+<div>
+  <div
+    class="sc-dkrFOg dbAEKA"
+  >
+    <svg>
+      advantage_graph.svg
+    </svg>
+    <div
+      class="sc-hLBbgP jkPHwm"
+      width="196"
+    >
+      <h2
+        class="sc-bcXHqe iHLRVe"
+        size="20"
+      >
+        8% cashback
+      </h2>
+      <p
+        class="sc-eDvSVe OfAwA"
+      >
+        On your first GPB 2,000 eligible purchases with two retailers you choose
+      </p>
+    </div>
+    <div
+      class="sc-hLBbgP jkPHwm"
+      width="196"
+    >
+      <h2
+        class="sc-bcXHqe iHLRVe"
+        size="20"
+      >
+        3% cashback
+      </h2>
+      <p
+        class="sc-eDvSVe OfAwA"
+      >
+        On your first GPB 2,000 eligible purchases on your bills
+      </p>
+    </div>
+    <div
+      class="sc-hLBbgP jkPHwm"
+      width="196"
+    >
+      <h2
+        class="sc-bcXHqe iHLRVe"
+        size="20"
+      >
+        2% cashback
+      </h2>
+      <p
+        class="sc-eDvSVe OfAwA"
+      >
+        On all other eligible purchases
+      </p>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,11 @@
+query exchangeRate {
+  getExchangeRate {
+    base
+    date
+    rates {
+      EUR
+      GBP
+      USD
+    }
+  }
+}

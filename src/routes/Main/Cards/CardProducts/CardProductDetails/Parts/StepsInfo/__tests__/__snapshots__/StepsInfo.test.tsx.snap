@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StepsInfo snapshot 1`] = `
+<div>
+  <section
+    class="sc-dkrFOg eZyYpP"
+  >
+    <h2
+      class="sc-gswNZR eugAJR"
+      size="20"
+    >
+      Get your card in three steps
+    </h2>
+    <div
+      class="sc-hLBbgP iAYQMH"
+    >
+      <div
+        class="sc-eDvSVe exIElQ"
+      >
+        <div
+          class="sc-bcXHqe bioYJS"
+          title="1"
+        >
+          1
+        </div>
+        <div
+          class="sc-jSUZER cgFgaH"
+        >
+          Press “Get a card” button
+        </div>
+        <div
+          class="sc-gKPRtg eZQHHz"
+        >
+          No need to enter additional data
+        </div>
+      </div>
+      <div
+        class="sc-eDvSVe exIElQ"
+      >
+        <div
+          class="sc-bcXHqe bioYJS"
+          title="2"
+        >
+          2
+        </div>
+        <div
+          class="sc-jSUZER cgFgaH"
+        >
+          Wait for approval
+        </div>
+        <div
+          class="sc-gKPRtg eZQHHz"
+        >
+          We’ll send an email with decision in 2 min
+        </div>
+      </div>
+      <div
+        class="sc-eDvSVe exIElQ"
+      >
+        <div
+          class="sc-bcXHqe bioYJS"
+          title="3"
+        >
+          3
+        </div>
+        <div
+          class="sc-jSUZER cgFgaH"
+        >
+          Get your card
+        </div>
+        <div
+          class="sc-gKPRtg eZQHHz"
+        >
+          Pick up your card in the branch in 2 days
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

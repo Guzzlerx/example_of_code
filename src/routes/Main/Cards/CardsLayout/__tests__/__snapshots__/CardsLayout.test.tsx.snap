@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardsLayout snapshot 1`] = `
+<div>
+  <section
+    class="sc-bcXHqe gNJUCg"
+  >
+    <div>
+      CHILD
+    </div>
+  </section>
+</div>
+`;

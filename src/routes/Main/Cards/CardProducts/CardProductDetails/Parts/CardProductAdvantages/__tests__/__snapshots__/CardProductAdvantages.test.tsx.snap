@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardProductAdvantages snapshot 1`] = `
+<div>
+  <section
+    class="sc-dkrFOg eUBOWt"
+  >
+    <h2
+      class="sc-gswNZR eugAJR"
+      size="20"
+    >
+      Advantages you don’t want to lose
+    </h2>
+    <div
+      class="sc-hLBbgP dsXhKp"
+    >
+      <div
+        class="sc-eDvSVe bnkvWH"
+        width="180"
+      >
+        <div
+          class="sc-bcXHqe hhnFHT"
+          title="Free card"
+        >
+          <svg>
+            card_giftcard.svg
+          </svg>
+        </div>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          Free card. Free servicing for a whole year
+          <span
+            class="sc-gKPRtg hokwDS"
+          />
+        </p>
+      </div>
+      <div
+        class="sc-eDvSVe bnkvWH"
+        width="180"
+      >
+        <div
+          class="sc-bcXHqe hhnFHT"
+          title="Money limit"
+        >
+          <svg>
+            local_atm.svg
+          </svg>
+        </div>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          Adjustable money limit - change it anytime in your account
+          <span
+            class="sc-gKPRtg hokwDS"
+          />
+        </p>
+      </div>
+      <div
+        class="sc-eDvSVe bnkvWH"
+        width="180"
+      >
+        <div
+          class="sc-bcXHqe hhnFHT"
+          title="ATM"
+        >
+          <svg>
+            atm.svg
+          </svg>
+        </div>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          No more need to search for the right ATM. Use wherever you want
+          <span
+            class="sc-gKPRtg hokwDS"
+          />
+        </p>
+      </div>
+      <div
+        class="sc-eDvSVe bnkvWH"
+        width="180"
+      >
+        <div
+          class="sc-bcXHqe hhnFHT"
+          title="Transfer"
+        >
+          <svg>
+            transfer.svg
+          </svg>
+        </div>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          Transfer money by phone number without additional money and limits
+          <span
+            class="sc-gKPRtg hokwDS"
+          />
+        </p>
+      </div>
+    </div>
+    <div
+      class="sc-hLBbgP cmWkZU"
+    >
+      <svg>
+        advantage_graph.svg
+      </svg>
+      <div
+        class="sc-eDvSVe duNAoy"
+        width="196"
+      >
+        <h2
+          class="sc-gswNZR hxLdcO"
+          size="20"
+        >
+          8% cashback
+        </h2>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          On your first GPB 2,000 eligible purchases with two retailers you choose
+        </p>
+      </div>
+      <div
+        class="sc-eDvSVe duNAoy"
+        width="196"
+      >
+        <h2
+          class="sc-gswNZR hxLdcO"
+          size="20"
+        >
+          3% cashback
+        </h2>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          On your first GPB 2,000 eligible purchases on your bills
+        </p>
+      </div>
+      <div
+        class="sc-eDvSVe duNAoy"
+        width="196"
+      >
+        <h2
+          class="sc-gswNZR hxLdcO"
+          size="20"
+        >
+          2% cashback
+        </h2>
+        <p
+          class="sc-jSUZER gPgFBy"
+        >
+          On all other eligible purchases
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+`;

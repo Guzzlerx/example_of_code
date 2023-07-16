@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardProductExtraInfo snapshot 1`] = `
+<div>
+  <div
+    class="sc-bcXHqe iRpbZk"
+    data-testid="CardProductExtraInfo"
+  >
+    <svg
+      data-testid="cryptoFlowersImage"
+    >
+      crypto_flowers.svg
+    </svg>
+    <div
+      class="sc-hLBbgP eyZLuc"
+    >
+      <h2
+        class="sc-gswNZR ePspNt"
+        color="#212529"
+        size="20"
+      >
+        Searching for a new way of getting money?
+      </h2>
+      <h2
+        class="sc-gswNZR ewsImF sc-dkrFOg bxiwyQ"
+        size="14"
+      >
+        Thanks to a new program, provided by our bank, you have a possibility to open a deposit account in any type of crypto. This is what you get:
+      </h2>
+      <ul
+        class="sc-eDvSVe gBCMGc"
+      >
+        <li
+          class="sc-jSUZER kQeRHy"
+        >
+          Higher interest rate. Get up to 
+          <strong>
+            7% APR
+          </strong>
+          , 2 times more than with usual deposit;
+        </li>
+        <li
+          class="sc-jSUZER kQeRHy"
+        >
+          Diversification. Adding crypto savings to your portfolio can help mitigate risk;
+        </li>
+        <li
+          class="sc-jSUZER kQeRHy"
+        >
+          Security. Cryptocurrencies are stored on decentralized blockchain networks, which are highly secure and resistant to hacking.
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

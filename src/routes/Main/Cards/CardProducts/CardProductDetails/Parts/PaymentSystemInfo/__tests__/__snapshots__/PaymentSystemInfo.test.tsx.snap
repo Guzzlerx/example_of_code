@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PaymentSystemInfo snapshot 1`] = `
+<div>
+  <section
+    class="sc-dkrFOg YiZDx"
+  >
+    <div
+      class="sc-hLBbgP eZOVIq"
+    >
+      <div
+        class="sc-eDvSVe bQVfVc"
+      >
+        <h2
+          class="sc-gswNZR hQAgET"
+          size="20"
+        >
+          Can’t decide what payment system to choose?
+        </h2>
+        <p
+          class="sc-jSUZER fwytjE"
+        >
+          There is no need to decide. We’ll provide you maximum benefits from Mastercard World Elite and VISA Infinite.
+        </p>
+        <p
+          class="sc-jSUZER fwytjE"
+        >
+          1 account number, 2 cards with different systems - one plastic and one virtual. Double your benefits and discounts.
+        </p>
+      </div>
+      <div
+        class="sc-gKPRtg eCkIZh"
+      >
+        <div
+          class="sc-iBYQkv kQBwho"
+        >
+          <div
+            class="sc-bcXHqe gZeIcz"
+            title="VISA"
+          >
+            <svg>
+              visa_blue.svg
+            </svg>
+          </div>
+          <a
+            class="sc-ftTHYK gkWsUx"
+            href="https://www.visa.com/"
+            target="_blank"
+          >
+            All VISA Infinite benefits
+          </a>
+        </div>
+        <div
+          class="sc-iBYQkv kQBwho"
+        >
+          <div
+            class="sc-bcXHqe gZeIcz"
+            title="Mastercard"
+          >
+            <svg>
+              mastercard_logo.svg
+            </svg>
+          </div>
+          <a
+            class="sc-ftTHYK gkWsUx"
+            href="https://www.mastercard.com/"
+            target="_blank"
+          >
+            All Mastercard World Elite benefits
+          </a>
+        </div>
+      </div>
+    </div>
+    <svg>
+      man_with_many_cards.svg
+    </svg>
+  </section>
+</div>
+`;
